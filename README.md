@@ -4,7 +4,7 @@
 ![node-version](https://img.shields.io/badge/license-MIT-blue)
 ![npm-version](https://img.shields.io/badge/npm-7.20.6-red) 
 ![node-version](https://img.shields.io/badge/node->=16.13.1-green)
-[![node-version](https://img.shields.io/badge/watch-live-blueviolet)](https://github.com/swenli)<!-- ccылка на проект -->
+[![node-version](https://img.shields.io/badge/watch-live-blueviolet)](https://swenlii.up.railway.app/works/visitka)<!-- ccылка на проект -->
 
 <div align="center">
 <img src="public/images/visitka-1.png" width="600px">
@@ -25,7 +25,7 @@ Cайт-визитка для моего портфолио. Сверстана 
 2. Во вторых, репрозиторий создан для истории. По коду в проекте можно понять, какой стиль кода был у меня в 2021 году.
 
 ### 👀 Где можно увидеть проект?
-Увидеть проект вживую можно на сайте: <!-- ccылка на проект -->
+Увидеть проект вживую можно на сайте: https://swenlii.up.railway.app/works/visitka
 
 ## Технологии
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="40px">
